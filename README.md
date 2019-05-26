@@ -8,3 +8,5 @@ This is a project on the Udacity Data Scientist Nanodegree curriculum.
 3.  run.py uses a Flask app along with the go.html and master.html files to create a web app which takes in sample text messages and classifies them.  Run.py requires the SQL database created by process_data.py and the pickled model created by train_classifier.py.
 ### Example of Web App
 ![alt text](https://raw.githubusercontent.com/tbdatasci/Disaster_Response/master/Udacity_Disaster_Response.PNG)
+![alt text](https://raw.githubusercontent.com/tbdatasci/Disaster_Response/master/Udacity_Disaster_Response_2.PNG)
+![alt text](https://raw.githubusercontent.com/tbdatasci/Disaster_Response/master/Udacity_Disaster_Response_3.PNG)
